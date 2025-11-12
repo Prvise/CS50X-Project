@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### 🎥 Video Demo  
-[Watch the demo here](<URL HERE>)
+[Watch the demo here](https://youtu.be/-RMKTouQH4A)
 
 ---
 
@@ -163,7 +163,7 @@ Follow these steps to set up and run **Ball IQuiz** locally:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/Ball-IQuiz.git
+git clone https://github.com/Prvise/CS50X-Project.git
 cd Ball-IQuiz
 2️⃣ Create a Virtual Environment
 bash
